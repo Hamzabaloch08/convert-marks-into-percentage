@@ -1,2 +1,2 @@
-# convert-marks-into-percentage
+# percentage-calculater
  
